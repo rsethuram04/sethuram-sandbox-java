@@ -9,5 +9,4 @@ public class SethuramSandbox1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SethuramSandbox1Application.class, args);
 	}
-
 }
